@@ -21,4 +21,4 @@
 ## Задача
 Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами
 ## Используемые библиотеки
-pandas, datetime, numpy, matplotlib, warnings, scipy
+*pandas, datetime, numpy, matplotlib, warnings, scipy*
